@@ -99,17 +99,45 @@ I'm an aspiring Data Engineer passionate about transforming raw data into meanin
 
 <table>
 <tr>
-<td align="center">🏆<br><b>110+</b><br>LeetCode Problems</td>
-<td align="center">☁️<br><b>AWS</b><br>Cloud Projects</td>
-<td align="center">🔗<br><b>Data Engineering</b><br>Projects</td>
-<td align="center">🗄️<br><b>SQL</b><br>Problem Solving</td>
-<td align="center">💻<br><b>Clean Code</b><br>Best Practices</td>
-<td align="center">🎯<br><b>Consistent</b><br>Learner</td>
+<td align="center" width="170">
+<img width="45" src="https://img.icons8.com/fluency/96/trophy.png" />
+<br><b>110+</b>
+<br><sub>LeetCode Problems<br>Solved</sub>
+</td>
+
+<td align="center" width="170">
+<img width="45" src="https://img.icons8.com/fluency/96/cloud.png" />
+<br><b>AWS</b>
+<br><sub>Cloud<br>Projects</sub>
+</td>
+
+<td align="center" width="170">
+<img width="45" src="https://img.icons8.com/fluency/96/data-configuration.png" />
+<br><b>Data Engineering</b>
+<br><sub>Projects</sub>
+</td>
+
+<td align="center" width="170">
+<img width="45" src="https://img.icons8.com/fluency/96/database.png" />
+<br><b>SQL</b>
+<br><sub>Problem<br>Solving</sub>
+</td>
+
+<td align="center" width="170">
+<img width="45" src="https://img.icons8.com/fluency/96/code.png" />
+<br><b>Clean Code</b>
+<br><sub>Best<br>Practices</sub>
+</td>
+
+<td align="center" width="170">
+<img width="45" src="https://img.icons8.com/fluency/96/goal.png" />
+<br><b>Consistent</b>
+<br><sub>Learner</sub>
+</td>
 </tr>
 </table>
 
 </div>
-
 ---
 
 ## 🚀 FEATURED PROJECTS
