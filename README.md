@@ -37,14 +37,13 @@ I'm an aspiring **Data Engineer** passionate about transforming raw data into me
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sushant-shringi&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushant-shringi&layout=compact&theme=tokyonight)
-
----
 ![GitHub Streak](https://streak-stats.demolab.com?user=sushant-shringi&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushant-shringi&layout=compact&theme=tokyonight)
 
 ## 🏆 Achievements
 
