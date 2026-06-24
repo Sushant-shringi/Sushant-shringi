@@ -7,10 +7,7 @@
 <table>
 <tr>
 <td>
-<p align="center">
-  <img src="about.png" style="width:100%; max-width:100%; border:0; display:block;" />
-</p>
-
+![about](./about.png)
 
 ---
 
