@@ -144,14 +144,59 @@ I'm an aspiring Data Engineer passionate about transforming raw data into meanin
 
 <div align="center">
 
-| Project | Description | Tech |
-|---|---|---|
-| 🌍 **Earthquake Data Pipeline** | End-to-end data pipeline using AWS services | S3, Glue, Athena, QuickSight |
-| 🪣 **API to S3 Project** | Automated API data ingestion and storage in S3 | Python, Boto3, S3 |
-| 💻 **LeetCode Solutions** | 110+ DSA problems with clean solutions | Python, DSA |
-| 🗄️ **SQL Practice** | SQL queries and problem-solving practice | SQL, Joins, Queries |
-| 📊 **Data Analysis Projects** | Data analysis and visualization using Python | Pandas, Matplotlib, Seaborn |
-| ☁️ **AWS Automation** | Automation scripts using AWS services | Lambda, IAM, CloudWatch |
+<table>
+<tr>
+<td width="33%" align="center">
+<img width="42" src="https://img.icons8.com/fluency/96/earth-planet.png" />
+<br><b>Earthquake Data Pipeline</b>
+<br><sub>End-to-end data pipeline using AWS services</sub>
+<br><br>
+<sub><b>S3</b> • <b>Glue</b> • <b>Athena</b> • <b>QuickSight</b></sub>
+</td>
+
+<td width="33%" align="center">
+<img width="42" src="https://img.icons8.com/fluency/96/bucket.png" />
+<br><b>API to S3 Project</b>
+<br><sub>Automated API data ingestion and storage in S3</sub>
+<br><br>
+<sub><b>Python</b> • <b>Boto3</b> • <b>S3</b></sub>
+</td>
+
+<td width="33%" align="center">
+<img width="42" src="https://img.icons8.com/fluency/96/code.png" />
+<br><b>LeetCode Solutions</b>
+<br><sub>110+ DSA problems with clean solutions</sub>
+<br><br>
+<sub><b>Python</b> • <b>DSA</b></sub>
+</td>
+</tr>
+
+<tr>
+<td width="33%" align="center">
+<img width="42" src="https://img.icons8.com/fluency/96/database.png" />
+<br><b>SQL Practice</b>
+<br><sub>SQL queries and problem-solving practice</sub>
+<br><br>
+<sub><b>SQL</b> • <b>Joins</b> • <b>Queries</b></sub>
+</td>
+
+<td width="33%" align="center">
+<img width="42" src="https://img.icons8.com/fluency/96/combo-chart.png" />
+<br><b>Data Analysis Projects</b>
+<br><sub>Data analysis and visualization using Python</sub>
+<br><br>
+<sub><b>Pandas</b> • <b>Matplotlib</b> • <b>Seaborn</b></sub>
+</td>
+
+<td width="33%" align="center">
+<img width="42" src="https://img.icons8.com/fluency/96/cloud-sync.png" />
+<br><b>AWS Automation</b>
+<br><sub>Automation scripts using AWS services</sub>
+<br><br>
+<sub><b>Lambda</b> • <b>IAM</b> • <b>CloudWatch</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
