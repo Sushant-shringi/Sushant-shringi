@@ -27,7 +27,7 @@ I'm an aspiring Data Engineer passionate about transforming raw data into meanin
 </td>
 <td width="32%" align="center">
 
-<img width="220" src="https://api.dicebear.com/9.x/adventurer/svg?seed=SushantShringi&backgroundColor=020617,0ea5e9,2563eb&radius=50" alt="Sushant Avatar" />
+<img width="210" src="https://api.dicebear.com/9.x/personas/svg?seed=SushantDataEngineer&backgroundColor=020617,0f172a,0ea5e9&radius=50" alt="Sushant Data Engineer Avatar" />
 </td>
 </tr>
 </table>
