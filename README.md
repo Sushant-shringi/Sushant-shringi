@@ -144,62 +144,76 @@ I'm an aspiring Data Engineer passionate about transforming raw data into meanin
 
 <div align="center">
 
+[![Projects](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2200&pause=800&color=00AEEF&center=true&vCenter=true&width=700&lines=Building+real-world+data+engineering+projects;Python+%7C+AWS+%7C+SQL+%7C+ETL+%7C+Analytics;Clean+projects.+Clear+logic.+Real+impact.)](https://git.io/typing-svg)
+
+<br><br>
+
 <table>
 <tr>
 <td width="33%" align="center">
-<img width="42" src="https://img.icons8.com/fluency/96/earth-planet.png" />
+<img width="55" src="https://img.icons8.com/fluency/96/earth-planet.png" />
 <br><b>Earthquake Data Pipeline</b>
 <br><sub>End-to-end data pipeline using AWS services</sub>
 <br><br>
-<sub><b>S3</b> • <b>Glue</b> • <b>Athena</b> • <b>QuickSight</b></sub>
+<img src="https://img.shields.io/badge/S3-020617?style=flat-square&logo=amazons3&logoColor=22C55E" />
+<img src="https://img.shields.io/badge/Glue-020617?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Athena-020617?style=flat-square&logo=amazonaws&logoColor=38BDF8" />
 </td>
 
 <td width="33%" align="center">
-<img width="42" src="https://img.icons8.com/fluency/96/bucket.png" />
+<img width="55" src="https://img.icons8.com/fluency/96/cloud-sync.png" />
 <br><b>API to S3 Project</b>
 <br><sub>Automated API data ingestion and storage in S3</sub>
 <br><br>
-<sub><b>Python</b> • <b>Boto3</b> • <b>S3</b></sub>
+<img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/Boto3-020617?style=flat-square&logo=python&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/S3-020617?style=flat-square&logo=amazons3&logoColor=22C55E" />
 </td>
 
 <td width="33%" align="center">
-<img width="42" src="https://img.icons8.com/fluency/96/code.png" />
+<img width="55" src="https://img.icons8.com/fluency/96/code.png" />
 <br><b>LeetCode Solutions</b>
 <br><sub>110+ DSA problems with clean solutions</sub>
 <br><br>
-<sub><b>Python</b> • <b>DSA</b></sub>
+<img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/DSA-020617?style=flat-square&logo=leetcode&logoColor=FFA116" />
 </td>
 </tr>
 
 <tr>
 <td width="33%" align="center">
-<img width="42" src="https://img.icons8.com/fluency/96/database.png" />
+<img width="55" src="https://img.icons8.com/fluency/96/database.png" />
 <br><b>SQL Practice</b>
 <br><sub>SQL queries and problem-solving practice</sub>
 <br><br>
-<sub><b>SQL</b> • <b>Joins</b> • <b>Queries</b></sub>
+<img src="https://img.shields.io/badge/SQL-020617?style=flat-square&logo=postgresql&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Joins-020617?style=flat-square&logo=postgresql&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/Queries-020617?style=flat-square&logo=postgresql&logoColor=22C55E" />
 </td>
 
 <td width="33%" align="center">
-<img width="42" src="https://img.icons8.com/fluency/96/combo-chart.png" />
+<img width="55" src="https://img.icons8.com/fluency/96/combo-chart.png" />
 <br><b>Data Analysis Projects</b>
 <br><sub>Data analysis and visualization using Python</sub>
 <br><br>
-<sub><b>Pandas</b> • <b>Matplotlib</b> • <b>Seaborn</b></sub>
+<img src="https://img.shields.io/badge/Pandas-020617?style=flat-square&logo=pandas&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Matplotlib-020617?style=flat-square&logo=python&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Seaborn-020617?style=flat-square&logo=python&logoColor=22C55E" />
 </td>
 
 <td width="33%" align="center">
-<img width="42" src="https://img.icons8.com/fluency/96/cloud-sync.png" />
+<img width="55" src="https://img.icons8.com/fluency/96/cloud.png" />
 <br><b>AWS Automation</b>
 <br><sub>Automation scripts using AWS services</sub>
 <br><br>
-<sub><b>Lambda</b> • <b>IAM</b> • <b>CloudWatch</b></sub>
+<img src="https://img.shields.io/badge/Lambda-020617?style=flat-square&logo=awslambda&logoColor=F97316" />
+<img src="https://img.shields.io/badge/IAM-020617?style=flat-square&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/CloudWatch-020617?style=flat-square&logo=amazonaws&logoColor=38BDF8" />
 </td>
 </tr>
 </table>
 
 </div>
-
 ---
 
 ## 📈 ACTIVITY GRAPH
