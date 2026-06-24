@@ -20,49 +20,46 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=85&color=0:020617,35:0EA5E9,70:2563EB,100:7C3AED&text=Aspiring%20Data%20Engineer&fontColor=FFFFFF&fontSize=32&fontAlignY=52&animation=twinkling" />
 
-[![About Animation](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=23&duration=2300&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Transforming+raw+data+into+meaningful+insights;Building+cloud-based+data+pipelines;Python+%7C+SQL+%7C+AWS+%7C+ETL+%7C+Analytics)](https://git.io/typing-svg)
+[![About Animation](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=22&duration=2300&pause=800&color=38BDF8&center=true&vCenter=true&width=760&lines=Transforming+raw+data+into+meaningful+insights;Building+cloud-based+data+pipelines;Python+%7C+SQL+%7C+AWS+%7C+ETL+%7C+Analytics)](https://git.io/typing-svg)
 
-</div>
+<br><br>
 
-<table>
-<tr>
-<td width="62%">
+<img width="220" src="https://api.dicebear.com/9.x/personas/svg?seed=SushantDataEngineer&backgroundColor=020617,0f172a&radius=50" />
+
+<br><br>
 
 ### 👋 Hi, I'm **Sushant**
 
 I'm an aspiring **Data Engineer** passionate about building scalable data solutions and transforming raw data into meaningful business insights.
 
-- 🎯 Focused on **Data Engineering, AWS, Python, SQL and ETL Pipelines**
-- 🏆 Solved **110+ LeetCode Problems**
-- ☁️ Building real-world cloud projects using **AWS**
-- 📊 Strong foundation in **data modeling, analytics and problem solving**
-- 🚀 Goal: To become a skilled Data Engineer and build impactful data solutions
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Engineering-020617?style=for-the-badge&logo=apacheairflow&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=postgresql&logoColor=38BDF8" />
+
+</div>
 
 <br>
 
 ```txt
-Role        : Aspiring Data Engineer
-Core Stack  : Python | SQL | AWS | ETL
-Focus       : Cloud Data Pipelines
-Mindset     : Learn. Build. Improve.
+🎯 Focused on Data Engineering, AWS, Python, SQL and ETL Pipelines
+🏆 Solved 110+ LeetCode Problems
+☁️ Building real-world cloud projects using AWS
+📊 Strong foundation in data modeling, analytics and problem solving
+🚀 Goal: To become a skilled Data Engineer and build impactful data solutions
 ```
 
-</td>
-<td width="38%" align="center">
+<div align="center">
 
-<img width="260" src="https://api.dicebear.com/9.x/personas/svg?seed=SushantDataEngineer&backgroundColor=020617,0f172a&radius=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=55&color=0:020617,50:0EA5E9,100:020617&text=Learn.%20Build.%20Improve.%20Repeat.&fontColor=FFFFFF&fontSize=18&fontAlignY=50&animation=fadeIn" />
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Data%20Engineer-020617?style=for-the-badge&logo=apacheairflow&logoColor=38BDF8" />
-<br>
-<img src="https://img.shields.io/badge/AWS%20Learner-020617?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-<br>
-<img src="https://img.shields.io/badge/Python%20Developer-020617?style=for-the-badge&logo=python&logoColor=FFD43B" />
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 ## 🛠️ TECH STACK
