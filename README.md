@@ -275,28 +275,64 @@ I'm an aspiring Data Engineer passionate about transforming raw data into meanin
 
 ---
 
-## 🌐 CONNECT WITH ME
+## CONNECT WITH ME
 
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020617,30:0EA5E9,70:2563EB,100:7C3AED&text=Let's%20Build%20Something%20With%20Data&fontColor=FFFFFF&fontSize=30&fontAlignY=55&animation=fadeIn" />
+
+<br>
+
+[![Connect Animation](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=2300&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Open+to+learning%2C+projects+and+collaboration;Data+Engineering+%7C+Cloud+%7C+Python+%7C+SQL;Let's+connect+and+build+real-world+solutions)](https://git.io/typing-svg)
+
+<br><br>
 
 <a href="https://linkedin.com/in/sushant-shringi">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img height="45" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:sushantshringi@email.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img height="45" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/Sushant-shringi">
-  <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
+  <img height="45" src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/Sushant-shringi">
+  <img height="45" src="https://img.shields.io/badge/LeetCode-020617?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
 
-</div>
+<br><br>
 
----
+<table>
+<tr>
+<td align="center" width="33%">
+<img width="55" src="https://img.icons8.com/fluency/96/linkedin.png" />
+<br><b>Professional Network</b>
+<br><sub>Connect with me on LinkedIn</sub>
+</td>
 
-<div align="center">
+<td align="center" width="33%">
+<img width="55" src="https://img.icons8.com/fluency/96/gmail-new.png" />
+<br><b>Direct Contact</b>
+<br><sub>Reach me through email</sub>
+</td>
 
-### ❝ Continuous learning, consistent effort, and building value through data. ❞
+<td align="center" width="33%">
+<img width="55" src="https://img.icons8.com/fluency/96/github.png" />
+<br><b>Code Portfolio</b>
+<br><sub>Explore my repositories</sub>
+</td>
+</tr>
+</table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,50:0EA5E9,100:2563EB" />
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=70&color=0:020617,50:0EA5E9,100:020617&text=Continuous%20learning%20%7C%20Consistent%20effort%20%7C%20Real%20data%20impact&fontColor=FFFFFF&fontSize=20&fontAlignY=50&animation=twinkling" />
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7C3AED,45:2563EB,100:020617" />
 
 </div>
