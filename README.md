@@ -56,6 +56,26 @@ I'm an aspiring Data Engineer passionate about transforming raw data into meanin
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img width="72" height="72" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 
+<br>
+
+<sub><b>Python</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>SQL</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>AWS</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Pandas</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>NumPy</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Git</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>GitHub</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Linux</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Docker</b></sub>
+
 </div>
 ---
 
