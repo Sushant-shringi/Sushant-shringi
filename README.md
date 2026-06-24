@@ -58,7 +58,7 @@ I'm an aspiring Data Engineer passionate about transforming raw data into meanin
 
 <br><br>
 
-<sub><b>Python</b></sub>
+<h1><sub><b>Python</b></sub></h1>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <sub><b>SQL</b></sub>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
