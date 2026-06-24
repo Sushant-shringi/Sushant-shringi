@@ -34,58 +34,69 @@ I'm an aspiring Data Engineer passionate about transforming raw data into meanin
 </table>
 
 ---
-
 ## 🛠️ TECH STACK
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="110">
-<img width="45" src="https://skillicons.dev/icons?i=python" />
-<br>Python
+<td align="center" width="140">
+<img width="55" src="https://skillicons.dev/icons?i=python" />
+<br><sub><b>Python</b></sub>
 </td>
-<td align="center" width="110">
-<img width="45" src="https://skillicons.dev/icons?i=postgres" />
-<br>SQL
+<td align="center" width="140">
+<img width="55" src="https://skillicons.dev/icons?i=postgres" />
+<br><sub><b>SQL</b></sub>
 </td>
-<td align="center" width="110">
-<img width="45" src="https://skillicons.dev/icons?i=aws" />
-<br>AWS
+<td align="center" width="140">
+<img width="55" src="https://skillicons.dev/icons?i=aws" />
+<br><sub><b>AWS</b></sub>
 </td>
-<td align="center" width="110">
-<img width="45" src="https://skillicons.dev/icons?i=git" />
-<br>Git
+<td align="center" width="140">
+<img width="55" src="https://skillicons.dev/icons?i=pandas" />
+<br><sub><b>Pandas</b></sub>
 </td>
-<td align="center" width="110">
-<img width="45" src="https://skillicons.dev/icons?i=github" />
-<br>GitHub
+<td align="center" width="140">
+<img width="55" src="https://skillicons.dev/icons?i=numpy" />
+<br><sub><b>NumPy</b></sub>
 </td>
-<td align="center" width="110">
-<img width="45" src="https://skillicons.dev/icons?i=linux" />
-<br>Linux
+<td align="center" width="140">
+<img width="55" src="https://skillicons.dev/icons?i=git" />
+<br><sub><b>Git</b></sub>
 </td>
-<td align="center" width="110">
-<img width="45" src="https://skillicons.dev/icons?i=docker" />
-<br>Docker
+<td align="center" width="140">
+<img width="55" src="https://skillicons.dev/icons?i=github" />
+<br><sub><b>GitHub</b></sub>
 </td>
 </tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/Pandas-020617?style=for-the-badge&logo=pandas&logoColor=8B5CF6" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/NumPy-020617?style=for-the-badge&logo=numpy&logoColor=38BDF8" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/ETL-020617?style=for-the-badge&logo=apacheairflow&logoColor=00AEEF" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AWS_S3-020617?style=for-the-badge&logo=amazons3&logoColor=22C55E" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/AWS_Lambda-020617?style=for-the-badge&logo=awslambda&logoColor=F97316" />
-
-</div>
-
+<tr>
+<td colspan="7"><br></td>
+</tr>
+<tr>
+<td align="center" width="140">
+<img width="55" src="https://skillicons.dev/icons?i=linux" />
+<br><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="140">
+<img width="55" src="https://skillicons.dev/icons?i=docker" />
+<br><sub><b>Docker</b></sub>
+</td>
+<td align="center" width="140">
+<img width="55" src="https://img.shields.io/badge/ETL-020617?style=for-the-badge&logo=apacheairflow&logoColor=00AEEF" />
+<br><sub><b>ETL</b></sub>
+</td>
+<td align="center" width="140">
+<img width="55" src="https://img.shields.io/badge/S3-020617?style=for-the-badge&logo=amazons3&logoColor=22C55E" />
+<br><sub><b>AWS S3</b></sub>
+</td>
+<td align="center" width="140">
+<img width="55" src="https://img.shields.io/badge/λ-020617?style=for-the-badge&logo=awslambda&logoColor=F97316" />
+<br><sub><b>Lambda</b></sub>
+</td>
+<td align="center" width="140">
+<img width="55" src="https://img.shields.io/badge/BI-020617?style=for-the-badge&logo=powerbi&logoColor=FACC15" />
+<br><sub><b>Power BI</b></sub>
+</td
 ---
 
 ## 📊 GITHUB STATS
