@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="sushant-git.png" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Sushant Shringi</h1>
 <h3 align="center">Aspiring Data Engineer | AWS | Python | SQL</h3>
 
