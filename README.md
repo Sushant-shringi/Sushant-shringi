@@ -38,23 +38,46 @@ I'm an aspiring Data Engineer passionate about transforming raw data into meanin
 
 <div align="center">
 
-<img height="46" src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=FFD43B" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="46" src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=postgresql&logoColor=38BDF8" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="46" src="https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="46" src="https://img.shields.io/badge/Pandas-020617?style=for-the-badge&logo=pandas&logoColor=A78BFA" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="46" src="https://img.shields.io/badge/NumPy-020617?style=for-the-badge&logo=numpy&logoColor=38BDF8" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="46" src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F97316" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="46" src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="46" src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=FACC15" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="46" src="https://img.shields.io/badge/Docker-020617?style=for-the-badge&logo=docker&logoColor=38BDF8" />
+<table>
+<tr>
+<td align="center" width="115">
+<img width="62" height="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<br><b>Python</b>
+</td>
+<td align="center" width="115">
+<img width="62" height="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<br><b>SQL</b>
+</td>
+<td align="center" width="115">
+<img width="62" height="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+<br><b>AWS</b>
+</td>
+<td align="center" width="115">
+<img width="62" height="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<br><b>Pandas</b>
+</td>
+<td align="center" width="115">
+<img width="62" height="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<br><b>NumPy</b>
+</td>
+<td align="center" width="115">
+<img width="62" height="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<br><b>Git</b>
+</td>
+<td align="center" width="115">
+<img width="62" height="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br><b>GitHub</b>
+</td>
+<td align="center" width="115">
+<img width="62" height="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<br><b>Linux</b>
+</td>
+<td align="center" width="115">
+<img width="62" height="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<br><b>Docker</b>
+</td>
+</tr>
+</table>
 
 </div>
 ---
