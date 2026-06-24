@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;AWS+Cloud+Enthusiast;Python+Developer;110%2B+LeetCode+Problems+Solved" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-2500%2B-0891b2?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=sushant-shringi&color=0891b2&style=flat-square" />
 </p>
 ---
 
