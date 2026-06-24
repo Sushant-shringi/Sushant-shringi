@@ -38,56 +38,63 @@ I'm an aspiring Data Engineer passionate about transforming raw data into meanin
 
 <div align="center">
 
-<img height="44" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="44" src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=38BDF8" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="44" src="https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="44" src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=A78BFA" />
+<img width="55" src="https://skillicons.dev/icons?i=python" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="55" src="https://skillicons.dev/icons?i=postgres" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="55" src="https://skillicons.dev/icons?i=aws" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="55" src="https://skillicons.dev/icons?i=pandas" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="55" src="https://skillicons.dev/icons?i=numpy" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="55" src="https://skillicons.dev/icons?i=git" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="55" src="https://skillicons.dev/icons?i=github" />
+
+<br><br>
+
+<sub><b>Python</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>SQL</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>AWS</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Pandas</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>NumPy</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Git</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>GitHub</b></sub>
 
 <br><br><br>
 
-<img height="44" src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=38BDF8" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="44" src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F97316" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="44" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="44" src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FACC15" />
+<img width="55" src="https://skillicons.dev/icons?i=linux" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="55" src="https://skillicons.dev/icons?i=docker" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" src="https://img.shields.io/badge/ETL-020617?style=for-the-badge&logo=apacheairflow&logoColor=00AEEF" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" src="https://img.shields.io/badge/S3-020617?style=for-the-badge&logo=amazons3&logoColor=22C55E" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" src="https://img.shields.io/badge/Lambda-020617?style=for-the-badge&logo=awslambda&logoColor=F97316" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" src="https://img.shields.io/badge/Power_BI-020617?style=for-the-badge&logo=powerbi&logoColor=FACC15" />
 
-<br><br><br>
+<br><br>
 
-<img height="44" src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=38BDF8" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="44" src="https://img.shields.io/badge/ETL-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=00AEEF" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="44" src="https://img.shields.io/badge/Amazon_S3-0D1117?style=for-the-badge&logo=amazons3&logoColor=22C55E" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="44" src="https://img.shields.io/badge/AWS_Lambda-0D1117?style=for-the-badge&logo=awslambda&logoColor=F97316" />
-
-<br><br><br>
-
-<img height="44" src="https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=FACC15" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="44" src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=22C55E" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img height="44" src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" />
-
-</div>
----
-
-## 📊 GITHUB STATS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sushant-shringi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&title_color=1E90FF&icon_color=1E90FF" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Sushant-shringi&theme=github-dark-blue&hide_border=true&ring=1E90FF&fire=22C55E&currStreakLabel=1E90FF" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushant-shringi&layout=compact&theme=github_dark&hide_border=true&title_color=1E90FF" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sushant-shringi&theme=github_dark&utcOffset=5.5" />
+<sub><b>Linux</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Docker</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>ETL</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>AWS S3</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Lambda</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Power BI</b></sub>
 
 </div>
 
