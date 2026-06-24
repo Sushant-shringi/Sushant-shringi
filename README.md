@@ -1,11 +1,12 @@
 <p align="center">
   <img src="sushant_git.png" width="100%">
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;AWS+Cloud+Enthusiast;Python+Developer;110%2B+LeetCode+Problems+Solved" />
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sushant-shringi&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 ---
 
 ## 🚀 About Me
