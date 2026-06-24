@@ -38,46 +38,43 @@ I'm an aspiring Data Engineer passionate about transforming raw data into meanin
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="115">
-<img width="62" height="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<br><b>Python</b>
-</td>
-<td align="center" width="115">
-<img width="62" height="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<br><b>SQL</b>
-</td>
-<td align="center" width="115">
-<img width="62" height="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<br><b>AWS</b>
-</td>
-<td align="center" width="115">
-<img width="62" height="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-<br><b>Pandas</b>
-</td>
-<td align="center" width="115">
-<img width="62" height="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<br><b>NumPy</b>
-</td>
-<td align="center" width="115">
-<img width="62" height="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br><b>Git</b>
-</td>
-<td align="center" width="115">
-<img width="62" height="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<br><b>GitHub</b>
-</td>
-<td align="center" width="115">
-<img width="62" height="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<br><b>Linux</b>
-</td>
-<td align="center" width="115">
-<img width="62" height="62" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<br><b>Docker</b>
-</td>
-</tr>
-</table>
+<img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="70" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
+<br><br>
+
+<sub><b>Python</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>SQL</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>AWS</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Pandas</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>NumPy</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Git</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>GitHub</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Linux</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Docker</b></sub>
 
 </div>
 ---
