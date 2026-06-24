@@ -4,10 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;AWS+Cloud+Enthusiast;Python+Developer;110%2B+LeetCode+Problems+Solved" />
 </p>
-<h2>
-<img src="https://img.shields.io/badge/ABOUT_ME-0891b2?style=for-the-badge">
-</h2>
-
+<h2>🚀 <code>ABOUT ME</code></h2>
 I'm an aspiring **Data Engineer** passionate about transforming raw data into meaningful insights and building scalable cloud-based solutions.
 
 💡 Currently focused on:
