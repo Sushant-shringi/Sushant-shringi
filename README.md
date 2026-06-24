@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   👀 <b>Profile Views</b><br>
-  <img src="https://komarev.com/ghpvc/?username=sushant-shringi&color=0891b2&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sushant-shringi&label=&color=0891b2&style=flat-square" />
 </p>
 ---
 
