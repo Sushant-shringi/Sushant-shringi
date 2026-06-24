@@ -4,22 +4,28 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;AWS+Cloud+Enthusiast;Python+Developer;110%2B+LeetCode+Problems+Solved" />
 </p>
-<h2>🚀 <code>ABOUT ME</code></h2>
-I'm an aspiring **Data Engineer** passionate about transforming raw data into meaningful insights and building scalable cloud-based solutions.
+<table>
+<tr>
+<td>
 
-💡 Currently focused on:
-- Data Engineering
-- AWS Cloud
-- Python & SQL
-- ETL Pipelines
-- Problem Solving
+## 🚀 ABOUT ME
 
-🏆 Highlights:
-- Solved 110+ LeetCode Problems
-- Built AWS-based Data Projects
-- Strong foundation in Python, SQL and Pandas
+Aspiring Data Engineer with a strong interest in cloud technologies, data pipelines, and analytics.
 
-🎯 Goal: To become a skilled Data Engineer and build production-ready data systems.
+- ☁️ AWS Cloud
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Pandas
+- 🔥 110+ LeetCode Problems
+
+</td>
+
+<td>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx..." width="250">
+</td>
+
+</tr>
+</table>
 
 ---
 
