@@ -9,7 +9,7 @@
 <td>
   
 <p align="center">
-  <img src="./about.png" width="1500" />
+  <img src="./about.png" width="2000" />
 </p>
 
 ---
