@@ -2,9 +2,6 @@
   <img src="sushant_git.png" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Sushant Shringi</h1>
-<h3 align="center">Aspiring Data Engineer | AWS | Python | SQL</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;AWS+Cloud+Enthusiast;Python+Developer;110%2B+LeetCode+Problems+Solved" />
 </p>
@@ -13,11 +10,21 @@
 
 ## 🚀 About Me
 
-- 🌱 Learning **Data Engineering & AWS**
-- 💻 Strong in **Python, SQL and Pandas**
-- ☁️ Building cloud projects using AWS
-- 🔥 Solved **110+ LeetCode Problems**
-- 🎯 Goal: Become a Data Engineer
+I'm an aspiring **Data Engineer** passionate about transforming raw data into meaningful insights and building scalable cloud-based solutions.
+
+💡 Currently focused on:
+- Data Engineering
+- AWS Cloud
+- Python & SQL
+- ETL Pipelines
+- Problem Solving
+
+🏆 Highlights:
+- Solved 110+ LeetCode Problems
+- Built AWS-based Data Projects
+- Strong foundation in Python, SQL and Pandas
+
+🎯 Goal: To become a skilled Data Engineer and build production-ready data systems.
 
 ---
 
