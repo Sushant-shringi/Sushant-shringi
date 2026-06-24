@@ -139,79 +139,118 @@ I'm an aspiring Data Engineer passionate about transforming raw data into meanin
 
 </div>
 ---
-
 ## 🚀 FEATURED PROJECTS
 
 <div align="center">
 
-[![Projects](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2200&pause=800&color=00AEEF&center=true&vCenter=true&width=700&lines=Building+real-world+data+engineering+projects;Python+%7C+AWS+%7C+SQL+%7C+ETL+%7C+Analytics;Clean+projects.+Clear+logic.+Real+impact.)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:020617,45:0EA5E9,100:7C3AED&text=Featured%20Data%20Engineering%20Projects&fontColor=FFFFFF&fontSize=28&fontAlignY=55&animation=fadeIn" />
+
+<br>
+
+[![Project Animation](https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=24&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=900&lines=Real-world+data+engineering+projects;Cloud+pipelines+%7C+ETL+%7C+Analytics+%7C+Automation;Python+%2B+SQL+%2B+AWS+%3D+Impactful+Data+Solutions)](https://git.io/typing-svg)
 
 <br><br>
 
 <table>
 <tr>
 <td width="33%" align="center">
-<img width="55" src="https://img.icons8.com/fluency/96/earth-planet.png" />
-<br><b>Earthquake Data Pipeline</b>
-<br><sub>End-to-end data pipeline using AWS services</sub>
-<br><br>
-<img src="https://img.shields.io/badge/S3-020617?style=flat-square&logo=amazons3&logoColor=22C55E" />
-<img src="https://img.shields.io/badge/Glue-020617?style=flat-square&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/Athena-020617?style=flat-square&logo=amazonaws&logoColor=38BDF8" />
-</td>
 
-<td width="33%" align="center">
-<img width="55" src="https://img.icons8.com/fluency/96/cloud-sync.png" />
-<br><b>API to S3 Project</b>
-<br><sub>Automated API data ingestion and storage in S3</sub>
-<br><br>
-<img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/Boto3-020617?style=flat-square&logo=python&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/S3-020617?style=flat-square&logo=amazons3&logoColor=22C55E" />
-</td>
+<img width="70" src="https://img.icons8.com/fluency/96/earth-planet.png" />
 
-<td width="33%" align="center">
-<img width="55" src="https://img.icons8.com/fluency/96/code.png" />
-<br><b>LeetCode Solutions</b>
-<br><sub>110+ DSA problems with clean solutions</sub>
+### 🌍 Earthquake Data Pipeline
+
+<sub>Real-time earthquake data pipeline using AWS services.</sub>
+
 <br><br>
-<img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/DSA-020617?style=flat-square&logo=leetcode&logoColor=FFA116" />
+
+<img src="https://img.shields.io/badge/AWS-020617?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/S3-020617?style=for-the-badge&logo=amazons3&logoColor=22C55E" />
+<img src="https://img.shields.io/badge/Glue-020617?style=for-the-badge&logo=amazonaws&logoColor=38BDF8" />
+
+</td>
+<td width="33%" align="center">
+
+<img width="70" src="https://img.icons8.com/fluency/96/cloud-sync.png" />
+
+### ☁️ API to S3 Project
+
+<sub>Automated API data ingestion and storage in Amazon S3.</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/Boto3-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/S3-020617?style=for-the-badge&logo=amazons3&logoColor=22C55E" />
+
+</td>
+<td width="33%" align="center">
+
+<img width="70" src="https://img.icons8.com/fluency/96/code.png" />
+
+### 💻 LeetCode Solutions
+
+<sub>110+ DSA problems with clean Python solutions.</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-020617?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/DSA-020617?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+
 </td>
 </tr>
 
 <tr>
 <td width="33%" align="center">
-<img width="55" src="https://img.icons8.com/fluency/96/database.png" />
-<br><b>SQL Practice</b>
-<br><sub>SQL queries and problem-solving practice</sub>
-<br><br>
-<img src="https://img.shields.io/badge/SQL-020617?style=flat-square&logo=postgresql&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Joins-020617?style=flat-square&logo=postgresql&logoColor=60A5FA" />
-<img src="https://img.shields.io/badge/Queries-020617?style=flat-square&logo=postgresql&logoColor=22C55E" />
-</td>
 
-<td width="33%" align="center">
-<img width="55" src="https://img.icons8.com/fluency/96/combo-chart.png" />
-<br><b>Data Analysis Projects</b>
-<br><sub>Data analysis and visualization using Python</sub>
-<br><br>
-<img src="https://img.shields.io/badge/Pandas-020617?style=flat-square&logo=pandas&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Matplotlib-020617?style=flat-square&logo=python&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Seaborn-020617?style=flat-square&logo=python&logoColor=22C55E" />
-</td>
+<img width="70" src="https://img.icons8.com/fluency/96/database.png" />
 
-<td width="33%" align="center">
-<img width="55" src="https://img.icons8.com/fluency/96/cloud.png" />
-<br><b>AWS Automation</b>
-<br><sub>Automation scripts using AWS services</sub>
+### 🗄️ SQL Practice
+
+<sub>SQL queries, joins, analytics and problem-solving practice.</sub>
+
 <br><br>
-<img src="https://img.shields.io/badge/Lambda-020617?style=flat-square&logo=awslambda&logoColor=F97316" />
-<img src="https://img.shields.io/badge/IAM-020617?style=flat-square&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/CloudWatch-020617?style=flat-square&logo=amazonaws&logoColor=38BDF8" />
+
+<img src="https://img.shields.io/badge/SQL-020617?style=for-the-badge&logo=postgresql&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Joins-020617?style=for-the-badge&logo=postgresql&logoColor=60A5FA" />
+<img src="https://img.shields.io/badge/Queries-020617?style=for-the-badge&logo=postgresql&logoColor=22C55E" />
+
+</td>
+<td width="33%" align="center">
+
+<img width="70" src="https://img.icons8.com/fluency/96/combo-chart.png" />
+
+### 📊 Data Analysis Projects
+
+<sub>Data cleaning, analysis and visualization with Python.</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-020617?style=for-the-badge&logo=pandas&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/Matplotlib-020617?style=for-the-badge&logo=python&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Seaborn-020617?style=for-the-badge&logo=python&logoColor=22C55E" />
+
+</td>
+<td width="33%" align="center">
+
+<img width="70" src="https://img.icons8.com/fluency/96/cloud.png" />
+
+### ⚡ AWS Automation
+
+<sub>Automation scripts using AWS services and Python.</sub>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Lambda-020617?style=for-the-badge&logo=awslambda&logoColor=F97316" />
+<img src="https://img.shields.io/badge/IAM-020617?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/CloudWatch-020617?style=for-the-badge&logo=amazonaws&logoColor=38BDF8" />
+
 </td>
 </tr>
 </table>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:7C3AED,45:0EA5E9,100:020617" />
 
 </div>
 ---
