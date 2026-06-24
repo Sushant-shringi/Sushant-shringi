@@ -8,7 +8,9 @@
 <tr>
 <td>
   
-![about](./about.png)
+<p align="center">
+  <img src="./about.png" width="1000" />
+</p>
 
 ---
 
