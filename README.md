@@ -62,3 +62,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sushant-shringi&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
+<p align="center">
+  <img src="sushant_git.png" width="100%">
+</p>
