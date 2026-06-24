@@ -34,7 +34,69 @@ I'm an aspiring Data Engineer passionate about transforming raw data into meanin
 </table>
 
 ---
+## 🛠️ TECH STACK
 
+<div align="center">
+
+<img width="55" src="https://skillicons.dev/icons?i=python" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="55" src="https://skillicons.dev/icons?i=postgres" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="55" src="https://skillicons.dev/icons?i=aws" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="55" src="https://skillicons.dev/icons?i=pandas" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="55" src="https://skillicons.dev/icons?i=numpy" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="55" src="https://skillicons.dev/icons?i=git" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="55" src="https://skillicons.dev/icons?i=github" />
+
+<br><br>
+
+<sub><b>Python</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>SQL</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>AWS</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Pandas</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>NumPy</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Git</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>GitHub</b></sub>
+
+<br><br><br>
+
+<img width="55" src="https://skillicons.dev/icons?i=linux" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img width="55" src="https://skillicons.dev/icons?i=docker" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" src="https://img.shields.io/badge/ETL-020617?style=for-the-badge&logo=apacheairflow&logoColor=00AEEF" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" src="https://img.shields.io/badge/S3-020617?style=for-the-badge&logo=amazons3&logoColor=22C55E" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" src="https://img.shields.io/badge/Lambda-020617?style=for-the-badge&logo=awslambda&logoColor=F97316" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height="32" src="https://img.shields.io/badge/Power_BI-020617?style=for-the-badge&logo=powerbi&logoColor=FACC15" />
+
+<br><br>
+
+<sub><b>Linux</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Docker</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>ETL</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>AWS S3</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Lambda</b></sub>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<sub><b>Power BI</b></sub>
+
+</div>
 ---
 
 ## 📊 GITHUB STATS
