@@ -73,7 +73,7 @@ I'm an aspiring Data Engineer passionate about transforming raw data into meanin
 <sub><b>GitHub</b></sub>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <sub><b>Linux</b></sub>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <sub><b>Docker</b></sub>
 
 </div>
