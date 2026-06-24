@@ -7,25 +7,10 @@
 <table>
 <tr>
 <td>
+<p align="center">
+  <img src="about.png" width="100%">
+</p>
 
-## 🚀 ABOUT ME
-
-Aspiring Data Engineer with a strong interest in cloud technologies, data pipelines, and analytics.
-
-- ☁️ AWS Cloud
-- 🐍 Python
-- 🗄️ SQL
-- 📊 Pandas
-- 🔥 110+ LeetCode Problems
-
-</td>
-
-<td>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjEx..." width="250">
-</td>
-
-</tr>
-</table>
 
 ---
 
