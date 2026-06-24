@@ -33,6 +33,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sushant-shringi&layout=compact&theme=tokyonight)
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=sushant-shringi&theme=tokyonight)
 
 ## 🏆 Achievements
 
