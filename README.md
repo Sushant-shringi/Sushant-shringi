@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sushant-git.png" width="100%">
+  <img src="C:\Users\sushant\Downloads\sushant_git.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sushant Shringi</h1>
