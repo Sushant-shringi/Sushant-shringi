@@ -27,7 +27,7 @@ I'm an aspiring Data Engineer passionate about transforming raw data into meanin
 </td>
 <td width="32%" align="center">
 
-<img width="210" src="https://api.dicebear.com/8.x/adventurer/svg?seed=Sushant&backgroundColor=020617&radius=50" />
+<img width="220" src="https://api.dicebear.com/9.x/avataaars/svg?seed=Sushant&backgroundColor=020617&radius=50" />
 
 </td>
 </tr>
@@ -39,14 +39,49 @@ I'm an aspiring Data Engineer passionate about transforming raw data into meanin
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,aws,git,github,linux,docker,vscode" />
+<table>
+<tr>
+<td align="center" width="110">
+<img width="45" src="https://skillicons.dev/icons?i=python" />
+<br>Python
+</td>
+<td align="center" width="110">
+<img width="45" src="https://skillicons.dev/icons?i=postgres" />
+<br>SQL
+</td>
+<td align="center" width="110">
+<img width="45" src="https://skillicons.dev/icons?i=aws" />
+<br>AWS
+</td>
+<td align="center" width="110">
+<img width="45" src="https://skillicons.dev/icons?i=git" />
+<br>Git
+</td>
+<td align="center" width="110">
+<img width="45" src="https://skillicons.dev/icons?i=github" />
+<br>GitHub
+</td>
+<td align="center" width="110">
+<img width="45" src="https://skillicons.dev/icons?i=linux" />
+<br>Linux
+</td>
+<td align="center" width="110">
+<img width="45" src="https://skillicons.dev/icons?i=docker" />
+<br>Docker
+</td>
+</tr>
+</table>
 
-<br/><br/>
+<br>
 
 <img src="https://img.shields.io/badge/Pandas-020617?style=for-the-badge&logo=pandas&logoColor=8B5CF6" />
+&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NumPy-020617?style=for-the-badge&logo=numpy&logoColor=38BDF8" />
+&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/ETL-020617?style=for-the-badge&logo=apacheairflow&logoColor=00AEEF" />
+&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/AWS_S3-020617?style=for-the-badge&logo=amazons3&logoColor=22C55E" />
+&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/AWS_Lambda-020617?style=for-the-badge&logo=awslambda&logoColor=F97316" />
 
 </div>
