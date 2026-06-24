@@ -16,24 +16,18 @@
 
 ## 🚀 ABOUT ME
 
-<table width="100%">
-<tr>
-<td width="70%">
-
 I'm an aspiring Data Engineer passionate about transforming raw data into meaningful insights and building scalable cloud-based solutions.
 
-<br><br>
-
-🎯 Focused on **Data Engineering, AWS, Python, SQL and ETL Pipelines**  
-🏆 Solved **110+ LeetCode Problems**  
-☁️ Building real-world projects on **AWS**  
-📊 Strong foundation in **data modeling, analytics and problem solving**  
-🚀 Goal: To become a skilled Data Engineer and build impactful data solutions  
+- 🎯 Focused on Data Engineering, AWS, Python, SQL and ETL Pipelines  
+- 🏆 Solved **110+ LeetCode Problems**  
+- ☁️ Building real-world projects on AWS  
+- 📊 Strong foundation in data modeling, analytics and problem solving  
+- 🚀 Goal: To become a skilled Data Engineer and build impactful data solutions  
 
 </td>
-<td width="30%" align="center">
+<td width="32%" align="center">
 
-<img width="190" src="assets/profile.png" alt="Sushant Profile Image" />
+<img width="210" src="https://api.dicebear.com/8.x/adventurer/svg?seed=Sushant&backgroundColor=020617&radius=50" />
 
 </td>
 </tr>
