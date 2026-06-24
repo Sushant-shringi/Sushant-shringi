@@ -85,7 +85,7 @@ I'm an aspiring Data Engineer passionate about transforming raw data into meanin
 
 <div align="center">
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api?username=Sushant-shringi&show_icons=true&theme=github_dark&hide_border=true&title_color=00AEEF&icon_color=1E90FF&text_color=FFFFFF&bg_color=0D1117&card_width=280" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sushant-shringi&show_icons=true&theme=github_dark&hide_border=true&title_color=00AEEF&icon_color=1E90FF&text_color=FFFFFF&bg_color=0D1117&card_width=280" />
 &nbsp;&nbsp;
 <img width="32%" src="https://github-readme-streak-stats.herokuapp.com?user=Sushant-shringi&theme=github-dark-blue&hide_border=true&background=0D1117&ring=1E90FF&fire=22C55E&currStreakLabel=00AEEF&card_width=280" />
 &nbsp;&nbsp;
